@@ -1,0 +1,30 @@
+.vs-tags-result{
+	margin:20px 0 0 0;
+}
+.vs-tags-item{
+	margin:0 0 20px 0;
+}
+.vs-tags-title{
+	font-size:16px;
+	color:#0772A1;
+}
+.vs-tags-body{
+	font-size:14px;
+	margin:5px 0;
+}
+.vs-tags-more{
+	text-align: right;
+}
+.vs-tags-more a {
+	font-size:13px;
+	color:#0772A1;
+}
+.vs-tags-cloud{
+	font-size:14px;
+}
+.vs-tags-cloud a{
+	display:inline-block;
+	margin:5px;
+	background:#f0bf72;
+	padding:5px;
+}

@@ -1,0 +1,16 @@
+<?php
+$MESS["VASOFT_TAGS_TAB"] = "Tag properties";
+$MESS["VASOFT_TAGS_TAB_TITLE"] = "Tag properties tune";
+$MESS["VASOFT_TAGS_ERROR_SAVE"] = "Error of saving";
+$MESS["VASOFT_TAGS_TITLE_CREATE"] = "Add row";
+$MESS["VASOFT_TAGS_TITLE_EDIT"] = "Edit row ";
+$MESS["VASOFT_TAGS_LIST"] = "List";
+$MESS["VASOFT_TAGS_SAVED"] = "Changes saved";
+$MESS["VASOFT_TAGS_FIELD_PHRASE"] = "Tag";
+$MESS["VASOFT_TAGS_FIELD_CODE"] = "Code";
+$MESS["VASOFT_TAGS_FIELD_TITLE"] = "Page title";
+$MESS["VASOFT_TAGS_FIELD_BROWSER_TITLE"] = "Browser title";
+$MESS["VASOFT_TAGS_FIELD_EYWORDS"] = "Keywords";
+$MESS["VASOFT_TAGS_FIELD_DESCRIPTION"] = "Description";
+$MESS["VASOFT_TAGS_FIELD_TEXT"] = "Text";
+$MESS["VASOFT_TAGS_FIELD_SITE"] = "Site";

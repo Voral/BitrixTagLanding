@@ -1,0 +1,11 @@
+.vs-tags-list {
+	text-align: right;
+}
+
+.vs-tags-list a {
+	display: inline-block;
+	background: #f0bf72;
+	font-size: 12px;
+	padding: 5px;
+	color: #fff;
+}
