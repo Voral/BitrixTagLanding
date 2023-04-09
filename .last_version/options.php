@@ -12,7 +12,7 @@ use Bitrix\Main\Loader,
 Loc::loadMessages(__FILE__);
 
 $module_id = "vasoft.tags";
-$MODULE_RIGHT = $APPLICATION->GetGroupRight($module_id);
+$MODULE_RIGHT = CMain::GetGroupRight($module_id);
 if ($MODULE_RIGHT >= "R" && Loader::includeModule($module_id)) {
 	$arDisplayOptions = array(
 		"PATH" => array(

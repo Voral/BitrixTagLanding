@@ -4,12 +4,13 @@
  * @author Воробьев Александр
  * @see https://va-soft.ru/
  * @package vasoft.tags
+ * @todo перенести на событие построения меню
  */
 use Bitrix\Main\Localization\Loc;
 
 $POST_RIGHT = $GLOBALS['APPLICATION']->GetGroupRight("vasoft.tags");
 $menu = array();
-if ($POST_RIGHT != "D") {
+if ($POST_RIGHT !== "D") {
 
 	Loc::loadMessages(__FILE__);
 
